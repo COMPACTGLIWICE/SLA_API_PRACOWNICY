@@ -1,0 +1,707 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/kamil/Desktop/Doc_Fx/docfx_project_wersja_startowa",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ApiDescriptionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ApiDescriptionExtensions.html",
+          "hash": "hwGb21beYRTecJKHnNZI3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Controllers.HelpController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Controllers.HelpController.html",
+          "hash": "hthRG4QoDfxpiBFaAzwIaw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Controllers.html",
+          "hash": "ItAK7kt9I+oDzYoc4yT25w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageAreaRegistration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageAreaRegistration.html",
+          "hash": "kF2ivFlgcpwRHK2tCX/NdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageConfig.html",
+          "hash": "w21cGYAEX4SzvY9Z8wmBVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageConfigurationExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageConfigurationExtensions.html",
+          "hash": "9wgL/e5QxGoRhAZUX/nAKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageSampleGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageSampleGenerator.html",
+          "hash": "d+V4WEIUx4qzXpsyJHXr0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageSampleKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.HelpPageSampleKey.html",
+          "hash": "23djmxMx3XzA5AoXvZbC3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ImageSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ImageSample.html",
+          "hash": "m5HIXmVjOPxfTtAN1iSpjg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.InvalidSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.InvalidSample.html",
+          "hash": "ezdhoq6FncK9r0fR1k6hqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.CollectionModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.CollectionModelDescription.html",
+          "hash": "klJqh0SnuYClYKoSf3tesg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ComplexTypeModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ComplexTypeModelDescription.html",
+          "hash": "45oJfgnzn5diqryPhPAuKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription.html",
+          "hash": "XC9ZMAUUhJUb9XzI/YR02w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription.html",
+          "hash": "tEFq5oD6688zL+IIlF2Pog=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.EnumValueDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.EnumValueDescription.html",
+          "hash": "yzg1PfCk0M9wzXzGYA0HzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider.html",
+          "hash": "38gGu4OzMSI70bQpRUPbZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription.html",
+          "hash": "1W2L5hCwC+9wXyGkoPDgLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ModelDescription.html",
+          "hash": "EPklTXr1cM+2hZRCXnHgxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.html",
+          "hash": "7OJIqyCx8ffcUtYEie9zRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ModelNameAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ModelNameAttribute.html",
+          "hash": "p6W4DGim+47gEwyheYQO5Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ParameterAnnotation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ParameterAnnotation.html",
+          "hash": "l2DlQtglEB3GYnAj/4wJXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ParameterDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.ParameterDescription.html",
+          "hash": "aqaQ6fsJnAzcP0XJLZ32UQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.SimpleTypeModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.SimpleTypeModelDescription.html",
+          "hash": "nfau9CD6iLWSzvBw94+nhw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ModelDescriptions.html",
+          "hash": "LE/VZ7AVoaQcZPNpKLgrOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Models.HelpPageApiModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Models.HelpPageApiModel.html",
+          "hash": "eIgDtgIxuTnJcWVkgCs/4w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.Models.html",
+          "hash": "P5J+xcA2Zkxz+UfQt4hdkQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ObjectGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.ObjectGenerator.html",
+          "hash": "o3n6/FMxdNUsCbHJjUbfNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.SampleDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.SampleDirection.html",
+          "hash": "bdsutstS7j8c+Jx15yv3MA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.TextSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.TextSample.html",
+          "hash": "snoHI464zJZksDGOd19Dlg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.XmlDocumentationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.XmlDocumentationProvider.html",
+          "hash": "AiXL2fUJvMLorKeKLhsqcA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Areas.HelpPage.html",
+          "hash": "MfGU7nZrb1lThXlgyVcxWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.BundleConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.BundleConfig.html",
+          "hash": "+l6mKGNiOtwDMLb1XhmvwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Controllers.Auth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Controllers.Auth.html",
+          "hash": "yphFyN18HPKgDDGh2XTmqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Controllers.PracownicyController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Controllers.PracownicyController.html",
+          "hash": "0eZbh1nyvxdQzlKDHiE2mA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Controllers.html",
+          "hash": "b6OvppWQWhsSCklp6bfpbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.FilterConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.FilterConfig.html",
+          "hash": "u94MVHyifOknq3O2JiC+lA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Models.PracownicyAPI.PunktAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Models.PracownicyAPI.PunktAPI.html",
+          "hash": "e211peatnzYuyvg2ZvRGhw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Models.PracownicyAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Models.PracownicyAPI.html",
+          "hash": "4gPG7DoTYUeDRf7ZkzOCAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.Models.html",
+          "hash": "b+Xxb22awbNfaiyUwgTFoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.RouteConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.RouteConfig.html",
+          "hash": "lNTTIbEnlHYnk83Xx+QKLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.SwaggerConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.SwaggerConfig.html",
+          "hash": "kjZ3IGLQy3GoZXS/WKnJXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.WebApiApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.WebApiApplication.html",
+          "hash": "08QhjnDTw6b+FSRvGamwWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.WebApiConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.WebApiConfig.html",
+          "hash": "umShtlbayw5SCr4770ZCUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.eaContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.eaContext.html",
+          "hash": "/HpPYfyEi8UF6h2bb53eGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SLA_WymianaDanych.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SLA_WymianaDanych.html",
+          "hash": "PK0AbU/ZCJFes+HidcRxIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "b8EluZm7eHHzUpHaPsW2xQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "hsmfBBEYJ8Wv6x4rbExFtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Endpoiny.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Endpoiny.html",
+          "hash": "HKWvMCuxBsYeNmXxOILZTA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/OpisApi.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/OpisApi.html",
+          "hash": "MK3Gr7DlwIQAyBx3JG/ZLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "/ggelN2cOFb+LoybPwQn4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/xxx.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/xxx.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "OraMLBVbWCcTU3qnyeRhfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "csrBiBBcoG5e7JLpKY++QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 45,
+          "skipped_file_count": 45
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
